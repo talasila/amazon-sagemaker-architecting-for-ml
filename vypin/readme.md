@@ -5,7 +5,7 @@ Synthetic financial data for fraud detection dataset @ https://www.kaggle.com/nt
 
 Simulates mobile money transactions based on a sample of real transactions extracted from one month of financial logs from a mobile money service implemented in an African country.
 
-##Headers
+## Headers
 This is a sample of 1 row with headers explanation:
 
 1,PAYMENT,1060.31,C429214117,1089.0,28.69,M1591654462,0.0,0.0,0,0
